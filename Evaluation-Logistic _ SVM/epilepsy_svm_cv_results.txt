@@ -1,0 +1,216 @@
+C = 1.000000
+kernel = linear
+decision_function = ovr
+train_acc: 0.270073 train_auc: 0.403596 train_f1: 0.114859 test_acc: 0.268116 test_auc: 0.444597 test_f1: 0.113375 
+
+C = 1.000000
+kernel = linear
+decision_function = ovo
+train_acc: 0.270073 train_auc: 0.397575 train_f1: 0.114859 test_acc: 0.268116 test_auc: 0.492103 test_f1: 0.113375 
+
+C = 1.000000
+kernel = polynomial
+decision_function = ovr
+degree = 2
+train_acc: 0.554745 train_auc: 0.616661 train_f1: 0.543676 test_acc: 0.239130 test_auc: 0.536352 test_f1: 0.238140 
+
+C = 1.000000
+kernel = polynomial
+decision_function = ovr
+degree = 3
+train_acc: 0.737226 train_auc: 0.773960 train_f1: 0.735208 test_acc: 0.355072 test_auc: 0.581900 test_f1: 0.356775 
+
+C = 1.000000
+kernel = polynomial
+decision_function = ovo
+degree = 2
+train_acc: 0.554745 train_auc: 0.651132 train_f1: 0.543676 test_acc: 0.239130 test_auc: 0.518744 test_f1: 0.238140 
+
+C = 1.000000
+kernel = polynomial
+decision_function = ovo
+degree = 3
+train_acc: 0.737226 train_auc: 0.760411 train_f1: 0.735208 test_acc: 0.355072 test_auc: 0.596630 test_f1: 0.356775 
+
+C = 1.000000
+kernel = rbf
+decision_function = ovr
+train_acc: 0.430657 train_auc: 0.504314 train_f1: 0.411216 test_acc: 0.340580 test_auc: 0.412868 test_f1: 0.314941 
+
+C = 1.000000
+kernel = rbf
+decision_function = ovo
+train_acc: 0.430657 train_auc: 0.504579 train_f1: 0.411216 test_acc: 0.340580 test_auc: 0.440053 test_f1: 0.314941 
+
+C = 1.000000
+kernel = sigmoid
+decision_function = ovr
+train_acc: 0.270073 train_auc: 0.500000 train_f1: 0.114859 test_acc: 0.268116 test_auc: 0.500000 test_f1: 0.113375 
+
+C = 1.000000
+kernel = sigmoid
+decision_function = ovo
+train_acc: 0.270073 train_auc: 0.500000 train_f1: 0.114859 test_acc: 0.268116 test_auc: 0.500000 test_f1: 0.113375 
+
+C = 0.100000
+kernel = linear
+decision_function = ovr
+train_acc: 0.270073 train_auc: 0.418132 train_f1: 0.114859 test_acc: 0.268116 test_auc: 0.469078 test_f1: 0.113375 
+
+C = 0.100000
+kernel = linear
+decision_function = ovo
+train_acc: 0.270073 train_auc: 0.425333 train_f1: 0.114859 test_acc: 0.268116 test_auc: 0.486851 test_f1: 0.113375 
+
+C = 0.100000
+kernel = polynomial
+decision_function = ovr
+degree = 2
+train_acc: 0.481752 train_auc: 0.441680 train_f1: 0.462322 test_acc: 0.326087 test_auc: 0.434341 test_f1: 0.298042 
+
+C = 0.100000
+kernel = polynomial
+decision_function = ovr
+degree = 3
+train_acc: 0.598540 train_auc: 0.605548 train_f1: 0.590299 test_acc: 0.304348 test_auc: 0.505593 test_f1: 0.299813 
+
+C = 0.100000
+kernel = polynomial
+decision_function = ovo
+degree = 2
+train_acc: 0.481752 train_auc: 0.355079 train_f1: 0.462322 test_acc: 0.326087 test_auc: 0.482710 test_f1: 0.298042 
+
+C = 0.100000
+kernel = polynomial
+decision_function = ovo
+degree = 3
+train_acc: 0.598540 train_auc: 0.644274 train_f1: 0.590299 test_acc: 0.304348 test_auc: 0.502052 test_f1: 0.299813 
+
+C = 0.100000
+kernel = rbf
+decision_function = ovr
+train_acc: 0.270073 train_auc: 0.349900 train_f1: 0.114859 test_acc: 0.268116 test_auc: 0.375108 test_f1: 0.113375 
+
+C = 0.100000
+kernel = rbf
+decision_function = ovo
+train_acc: 0.270073 train_auc: 0.338144 train_f1: 0.114859 test_acc: 0.268116 test_auc: 0.371889 test_f1: 0.113375 
+
+C = 0.100000
+kernel = sigmoid
+decision_function = ovr
+train_acc: 0.270073 train_auc: 0.500000 train_f1: 0.114859 test_acc: 0.268116 test_auc: 0.500000 test_f1: 0.113375 
+
+C = 0.100000
+kernel = sigmoid
+decision_function = ovo
+train_acc: 0.270073 train_auc: 0.500000 train_f1: 0.114859 test_acc: 0.268116 test_auc: 0.500000 test_f1: 0.113375 
+
+C = 0.010000
+kernel = linear
+decision_function = ovr
+train_acc: 0.270073 train_auc: 0.509791 train_f1: 0.114859 test_acc: 0.268116 test_auc: 0.447880 test_f1: 0.113375 
+
+C = 0.010000
+kernel = linear
+decision_function = ovo
+train_acc: 0.270073 train_auc: 0.454606 train_f1: 0.114859 test_acc: 0.268116 test_auc: 0.516431 test_f1: 0.113375 
+
+C = 0.010000
+kernel = polynomial
+decision_function = ovr
+degree = 2
+train_acc: 0.357664 train_auc: 0.511010 train_f1: 0.312861 test_acc: 0.297101 test_auc: 0.420509 test_f1: 0.248400 
+
+C = 0.010000
+kernel = polynomial
+decision_function = ovr
+degree = 3
+train_acc: 0.532847 train_auc: 0.459996 train_f1: 0.523539 test_acc: 0.268116 test_auc: 0.524928 test_f1: 0.250961 
+
+C = 0.010000
+kernel = polynomial
+decision_function = ovo
+degree = 2
+train_acc: 0.357664 train_auc: 0.484885 train_f1: 0.312861 test_acc: 0.297101 test_auc: 0.413242 test_f1: 0.248400 
+
+C = 0.010000
+kernel = polynomial
+decision_function = ovo
+degree = 3
+train_acc: 0.532847 train_auc: 0.658227 train_f1: 0.523539 test_acc: 0.268116 test_auc: 0.509211 test_f1: 0.250961 
+
+C = 0.010000
+kernel = rbf
+decision_function = ovr
+train_acc: 0.270073 train_auc: 0.343077 train_f1: 0.114859 test_acc: 0.268116 test_auc: 0.383321 test_f1: 0.113375 
+
+C = 0.010000
+kernel = rbf
+decision_function = ovo
+train_acc: 0.270073 train_auc: 0.367391 train_f1: 0.114859 test_acc: 0.268116 test_auc: 0.377111 test_f1: 0.113375 
+
+C = 0.010000
+kernel = sigmoid
+decision_function = ovr
+train_acc: 0.270073 train_auc: 0.500000 train_f1: 0.114859 test_acc: 0.268116 test_auc: 0.500000 test_f1: 0.113375 
+
+C = 0.010000
+kernel = sigmoid
+decision_function = ovo
+train_acc: 0.270073 train_auc: 0.500000 train_f1: 0.114859 test_acc: 0.268116 test_auc: 0.500000 test_f1: 0.113375 
+
+C = 0.001000
+kernel = linear
+decision_function = ovr
+train_acc: 0.270073 train_auc: 0.522780 train_f1: 0.114859 test_acc: 0.268116 test_auc: 0.464551 test_f1: 0.113375 
+
+C = 0.001000
+kernel = linear
+decision_function = ovo
+train_acc: 0.270073 train_auc: 0.464435 train_f1: 0.114859 test_acc: 0.268116 test_auc: 0.545548 test_f1: 0.113375 
+
+C = 0.001000
+kernel = polynomial
+decision_function = ovr
+degree = 2
+train_acc: 0.299270 train_auc: 0.447355 train_f1: 0.244701 test_acc: 0.297101 test_auc: 0.489494 test_f1: 0.238447 
+
+C = 0.001000
+kernel = polynomial
+decision_function = ovr
+degree = 3
+train_acc: 0.496350 train_auc: 0.605721 train_f1: 0.482329 test_acc: 0.326087 test_auc: 0.513446 test_f1: 0.301706 
+
+C = 0.001000
+kernel = polynomial
+decision_function = ovo
+degree = 2
+train_acc: 0.299270 train_auc: 0.424173 train_f1: 0.244701 test_acc: 0.297101 test_auc: 0.480987 test_f1: 0.238447 
+
+C = 0.001000
+kernel = polynomial
+decision_function = ovo
+degree = 3
+train_acc: 0.496350 train_auc: 0.494342 train_f1: 0.482329 test_acc: 0.326087 test_auc: 0.494306 test_f1: 0.301706 
+
+C = 0.001000
+kernel = rbf
+decision_function = ovr
+train_acc: 0.270073 train_auc: 0.421740 train_f1: 0.114859 test_acc: 0.268116 test_auc: 0.368401 test_f1: 0.113375 
+
+C = 0.001000
+kernel = rbf
+decision_function = ovo
+train_acc: 0.270073 train_auc: 0.423307 train_f1: 0.114859 test_acc: 0.268116 test_auc: 0.375263 test_f1: 0.113375 
+
+C = 0.001000
+kernel = sigmoid
+decision_function = ovr
+train_acc: 0.270073 train_auc: 0.500000 train_f1: 0.114859 test_acc: 0.268116 test_auc: 0.500000 test_f1: 0.113375 
+
+C = 0.001000
+kernel = sigmoid
+decision_function = ovo
+train_acc: 0.270073 train_auc: 0.500000 train_f1: 0.114859 test_acc: 0.268116 test_auc: 0.500000 test_f1: 0.113375 
+
